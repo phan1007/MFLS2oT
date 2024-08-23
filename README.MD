@@ -12,8 +12,8 @@ Comparison of forward-backward tracking trajectory results for different tracker
 Two multibeam forward-looking sonars are used in our experiments, i.e., Blueview M900-130 and Blueprint M750d. The acoustic specifications of these two sonars are provided as follows
 | Acoustic Specifications  | Blueview M900-130 | Blueprint M750d |
 | ------------- | ------------- |------------- |
-| Content Cell  | Content Cell  |------------- |
-| Content Cell  | Content Cell  |------------- |
+|  Operating frequency | 750kHz  | 900kHz |
+|  Angular resolution | $1^{o}$ | $0.18^{o}$ |
 
 
 
