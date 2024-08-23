@@ -21,22 +21,29 @@ Two multibeam forward-looking sonars are used in our experiments, i.e., Blueview
 |  Range resolution | 4mm | 1.4cm |
 |  Update rate | 40Hz | 25Hz |
 
-All experimental videos were recorded using ProView for Blueview M900-130 and ViewPoint for Blueprint M750d. Each video had a duration of less than five minutes to ensure manageable file sizes and facilitate data analysis. During the screening process of the UUV videos, we specifically targeted videos that encompassed a diverse range of challenge types, considering the intricate nature of the underwater environment.
-
 scenarios for data collection
 ![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/Scenarios.png)
 
-Mechanical structure of the equipment for data collection
+Mechanical structure for data collection
 ![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/FM.png)
 
-The operational diagram of the UUV during the experiments
+The UUV during the experiments
 ![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/UUV-exp.png)
 
-Examples of MFLS sequences with different sonars and looks
-![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/Examples_MFLS_Video.png)
+The experiments have 6 objects including UUV, aluminium metal box, grey box, plane model, red bucket, and submarine model. The parameters of the UUV is presented as follows
+| Parameters  | Specific values |
+| ------------- | ------------- |
+|  Size | Diameter: 324mm, Length: 3300mm  |
+|  Weight | 450m |
+|  Depth | 0.1m-120m |
+|  Endurance | >60Km |
+|  Speed | 0-6Knots |
 
+5 objects recorded by the visible camera
+![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/optical_img.png)
 
-
+# Experiments and Results
+25 trackers are benchmarked. Precision and success plots for OPE are
 
 
 
