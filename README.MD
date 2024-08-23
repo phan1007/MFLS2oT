@@ -43,9 +43,14 @@ The experiments have 6 objects including UUV, aluminium metal box, grey box, pla
 ![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/optical_img.png)
 
 # Experiments and Results
-25 trackers are benchmarked. Precision and success plots for OPE are
-<div>
-  <img src="https://github.com/phan1007/MFLS2oT/blob/main/figs/CLE_char5.png" alt="Precision plot (top 10)e" style="float: left;" />
-  <img src="https://github.com/phan1007/MFLS2oT/blob/main/figs/OR_char5.png" alt="Success rate plot (top 10)" style="float: left;" />
-</div>
+25 trackers are benchmarked. . Precision and success plots for OPE are
+![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/OPE.png)
 
+Top 10 tracker results for the challenge attributes of Tugboat Wake (TW), Random Rays(RRI) and Fake Targets(FT)
+![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/TW-RRI-FT.png)
+
+Top 10 tracker results for the challenge attributes of Low Resolution(LR) and Ambiguous Target(AT)
+![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/LR-AT.png)
+
+Precision and success plots for TRE and SRE
+![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/TRE-SRE.png)
