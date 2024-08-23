@@ -45,7 +45,7 @@ The experiments have 6 objects including UUV, aluminium metal box, grey box, pla
 # Experiments and Results
 25 trackers are benchmarked. Precision and success plots for OPE are
 <div>
-  <img src="https://github.com/phan1007/MFLS2oT/blob/main/figs/CLE_char5.png" alt="Precision plot (top 10)e" style="float: left; margin-right: 10px;" />
+  <img src="https://github.com/phan1007/MFLS2oT/blob/main/figs/CLE_char5.png" alt="Precision plot (top 10)e" style="float: left; margin-right:10px;" />
   <img src="https://github.com/phan1007/MFLS2oT/blob/main/figs/OR_char5.png" alt="Success rate plot (top 10)" style="float: left;" />
 </div>
 
