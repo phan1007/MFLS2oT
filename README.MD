@@ -14,6 +14,12 @@ Two multibeam forward-looking sonars are used in our experiments, i.e., Blueview
 | ------------- | ------------- |------------- |
 |  Operating frequency | 750kHz  | 900kHz |
 |  Angular resolution | $1^{o}$ | $0.18^{o}$ |
+|  Range | 0.1m-120m | 2.0m-100m |
+|  Number of beams | 512 | 768 |
+|  Horizontal beamwidth | $130^{o}$ | $130^{o}$ |
+|  Vertical beamwidth | $20^{o}$ | $20^{o}$ |
+|  Range resolution | 4mm | 1.4cm |
+|  Update rate | 40Hz | 25Hz |
 
 
 
