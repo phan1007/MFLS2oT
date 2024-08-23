@@ -23,6 +23,8 @@ Two multibeam forward-looking sonars are used in our experiments, i.e., Blueview
 
 All experimental videos were recorded using ProView for Blueview M900-130 and ViewPoint for Blueprint M750d. Each video had a duration of less than five minutes to ensure manageable file sizes and facilitate data analysis. During the screening process of the UUV videos, we specifically targeted videos that encompassed a diverse range of challenge types, considering the intricate nature of the underwater environment.
 
+Mechanical structure of the equipment and scenarios for data collection is:
+![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/fbttr.png)
 
 
 
