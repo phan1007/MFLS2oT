@@ -8,3 +8,19 @@ An example for the update strategies of 4 trackers in the interval is:
 
 Comparison of forward-backward tracking trajectory results for different trackers on the same sequence.
 ![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/fbttr.png)
+# MFLS2oT Dataset
+Two multibeam forward-looking sonars are used in our experiments, i.e., Blueview M900-130 and Blueprint M750d. The acoustic specifications of these two sonars are provided as follows
+| Acoustic Specifications  | Blueview M900-130 | Blueprint M750d |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
+
+
+
+
+
+
+
