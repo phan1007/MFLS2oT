@@ -54,3 +54,5 @@ Top 10 tracker results for the challenge attributes of Low Resolution(LR) and Am
 
 Precision and success plots for TRE and SRE
 ![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/TRE-SRE.png)
+# Acknowledgements
+This work is jointly supported by National Natural Science Foundation of China (Grant Nos. 61603249, 61673262), the Wuhan Second Ship Design and Research Institute, National GF Basic Research Program under JCKY2021110B134, and the Fundamental Research Funds for the Central Universities. The authors especially thank Meng Xu, Yu Yuan, Yang Liu, Buer Song, Shuangjie Fu, Kaiyao Ling, Hong Chen, Hao Zhang, Mo Tao, Shaobo Fu, Zesong Ma, Kun Wei, Xianbo Xiang, Shaolong Yang, Zhao Wang, Xinyang Xiong, and Chuan Liu for helping them to complete the field experiments.
