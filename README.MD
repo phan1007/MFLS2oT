@@ -46,7 +46,7 @@ The experiments have 6 objects including UUV, aluminium metal box, grey box, pla
 ![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/optical_img.png)
 
 # Experiments and Results
-## 25 trackers are benchmarked. Precision and success plots for OPE are
+## 25 trackers are benchmarked. Precision and success plots for OPE
 ![image](https://github.com/phan1007/MFLS2oT/blob/main/figs/OPE.png)
 
 ## Top 10 tracker results for the challenge attributes of Tugboat Wake (TW), Random Rays(RRI) and Fake Targets(FT)
